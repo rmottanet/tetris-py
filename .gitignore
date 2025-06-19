@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / compiled files
+**/__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and temporary files
+*.log
+tmp/
+.ipynb_checkpoints/
+
+# Miscellaneous
+.env # for environment variables
